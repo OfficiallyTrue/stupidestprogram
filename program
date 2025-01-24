@@ -1,0 +1,9 @@
+from time import sleep
+
+number = input("Please enter your number to the magic genie: ")
+print("Calculating...") ; sleep(0.7)
+print("Reading brainwaves...") ; sleep(0.7)
+print("Scanning the bisectors...") ; sleep(0.7)
+print("Uploading to servers...") ; sleep(0.7)
+print("Downloading from servers...") ; sleep(0.7)
+print("Was your number", number,"?")
